@@ -12,6 +12,8 @@ public class Basic {
 		pst.setInt(2, 1);
 		pst.setString( 1,"gopika");
 		pst.setInt(2, 3);
+		pst.setString( 1,"archana");
+		pst.setInt(2, 4);
 		pst.executeUpdate();
 		
 	}
